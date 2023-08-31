@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ru.geekbrains.lesson1.app","l":"App"},{"p":"ru.geekbrains.lesson1.calc","l":"Converter"},{"p":"ru.geekbrains.lesson1.calc","l":"Out"}]

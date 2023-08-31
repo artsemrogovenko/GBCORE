@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ru.geekbrains.lesson1.app"},{"l":"ru.geekbrains.lesson1.calc"}]
