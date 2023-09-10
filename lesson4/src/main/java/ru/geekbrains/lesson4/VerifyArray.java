@@ -1,8 +1,8 @@
 package ru.geekbrains.lesson4;
 
-public class MyArray {
+public class VerifyArray {
 
-    public MyArray(String[][] array) throws MyArraySizeException {
+    public VerifyArray(String[][] array) throws MyArraySizeException {
         conversing(array);
     }
 
